@@ -50,7 +50,8 @@ HW : House advanced regression problem
 7) XGboost
 8) LightGBM
 9) Catboost
-10) TabNet
+10) Ensemble learning(bagging,boosting,voting,Stacking)
+11) TabNet
 
 ### 실습 : 
 1) Mushroom Classification (https://www.kaggle.com/uciml/mushroom-classification)
