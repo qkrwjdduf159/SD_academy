@@ -21,6 +21,7 @@
 
 ## 4. Matplotlib(그림 그리기)
 
+----------------------------------Machine Learning----------------------------------
 ## 5. 회귀 분석
 1) 회귀 분석이란?
 2) 경사하강법 소개 및 증명
@@ -40,7 +41,7 @@
 
 HW : House advanced regression problem
 
-## 분류
+## 분류-1
 1) k-nearest neighbors
 2) Naive Bayes
 3) Decison Tree
@@ -50,10 +51,35 @@ HW : House advanced regression problem
 7) XGboost
 8) LightGBM
 9) Catboost
-10) Ensemble learning(bagging,boosting,voting,Stacking)
-11) TabNet
+Hyperparamter 자동 : optnua /  Imblanced data
+11) Ensemble learning(bagging,boosting,voting,Stacking)
+12) TabNet
 
 ### 실습 : 
 1) Mushroom Classification (https://www.kaggle.com/uciml/mushroom-classification)
 2) Otto Group Product Classification Challenge (https://www.kaggle.com/c/otto-group-product-classification-challenge)
 3) Cardiovascular Disease(https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+4) Prudential Life Insurance Assessment(https://www.kaggle.com/c/prudential-life-insurance-assessment)
+5) Imbalanced Data(Credit Card Fraud Detection(https://www.kaggle.com/mlg-ulb/creditcardfraud))
+
+## 분류-2
+1) Support Vector Machine
+2) Kernel Method
+
+## Dimensionality Rediction
+1) Principal component analysis (PCA)
+2) Linear Discriminant Analysis(LDA)
+3) singular value decomposition (SVD)
+4) Non-negative matrix factorization (NMF)
+
+## Clustering
+1) K-nearest neighbors
+2) K-means,K-mediean,k-medoids
+3) Elbow method with k means
+4) Mean Shift
+5) Hierarchical Clustering
+6) Gaussian Mixture Model
+7) DBSCAN(Density Based Spatial Clustering of Applications with Noise)
+
+
+----------------------------------Deep Learning----------------------------------
