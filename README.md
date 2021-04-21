@@ -53,7 +53,6 @@ HW : House advanced regression problem
 9) Catboost
 Hyperparamter 자동 : optnua /  Imblanced data
 11) Ensemble learning(bagging,boosting,voting,Stacking)
-12) TabNet
 
 ### 실습 : 
 1) Mushroom Classification (https://www.kaggle.com/uciml/mushroom-classification)
