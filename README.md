@@ -80,5 +80,27 @@ Hyperparamter 자동 : optnua /  Imblanced data
 6) Gaussian Mixture Model
 7) DBSCAN(Density Based Spatial Clustering of Applications with Noise)
 
+## git/github
+
+## R 텍스트 마이닝
+
+## 추천시스템
+
+## 시계열 분석 ? 
 
 ----------------------------------Deep Learning----------------------------------
+1. peceptron
+2. mulit layer perceptron
+3. Convoluiontal Neural Networks
+4. Recurrent Neural Networks
+5. Speech Recongition ->기초적인 것.
+6. Convolutiaonl Neural Neworks advanced (시각인지) ->YoLO(detection) /Deeplab(Segmenation)
+7. Recurrent Neural Networks advanced (언어인지) -> transformer 계열
+
+Graph Neural Networks ? Gernerative adversial Neworks ? 
+
+
+## spark
+## AWS / linux programming ->Server Programming
+# Docker ->server Progarmming
+# Django / Flask ->web programming
