@@ -80,6 +80,18 @@ Hyperparamter 자동 : optnua /  Imblanced data
 6) Gaussian Mixture Model
 7) DBSCAN(Density Based Spatial Clustering of Applications with Noise)
 
+## Text mining
+1) 토큰화
+2) Clearning and Normalization
+3) 어간 추출(Stemming) and 표제어 추출(Lemmatization)
+4) 불용어(StopWord)
+5) 정규 표현식(Regular Expression)
+6) 정수 인코딩(integer Encoding)
+7) 패딩(Padding)
+8) 원-핫 인코딩(One-hot encdoing)
+9) 데이터의 분리(data split)
+10) 한국어 전처리 패키지(Text Proprcessing Tools for Korean Text)
+
 ## git/github
 
 ## R 텍스트 마이닝
