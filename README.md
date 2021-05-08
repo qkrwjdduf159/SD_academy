@@ -92,6 +92,8 @@ Hyperparamter 자동 : optnua /  Imblanced data
 9) 데이터의 분리(data split)
 10) 한국어 전처리 패키지(Text Proprcessing Tools for Korean Text)
 
+# Hackton : new york city taxi trip duration
+
 ## git/github
 
 ## R 텍스트 마이닝
