@@ -91,14 +91,26 @@ Hyperparamter 자동 : optnua /  Imblanced data
 8) 원-핫 인코딩(One-hot encdoing)
 9) 데이터의 분리(data split)
 10) 한국어 전처리 패키지(Text Proprcessing Tools for Korean Text)
+11) 확률론적 언어 모형 / 언어 모델 평가(Perplexity)
+12) BOW(bag of words) / CounterVecorizer
+13) Document-Term Matrix
+14) Sparse matrix(COO,CSR format)
+15) Term Frequenct-Inverse Document Frequency) / 실습 : 20 Newsgroup 분류하기
+16) 감성 인식(Sentriment Analysis) / SentiWordNet, VADER / 실습 : IMDB  영황 Review에 대한 긍정/부정 예측 / beautifulSoup / 워드 클라우드 이용
+17) 토픽 모델링(LSA(SVD, Truncated SVD)),LSA
+18) 문서 군집화
+19) 벡터의 유사도 
+20) 네이버 영화리뷰 감성인식 / kaggle Mercari Price Suggestion Challenge
 
 # Hackton : new york city taxi trip duration
 
-## git/github
+## git/github ->source Tree / VS code
+
+## 추천시스템
+
 
 ## R 텍스트 마이닝
 
-## 추천시스템
 
 ## 시계열 분석 ? 
 
