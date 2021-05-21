@@ -104,10 +104,14 @@ Hyperparamter 자동 : optnua /  Imblanced data
 
 # Hackton : new york city taxi trip duration
 
-## git/github ->source Tree / VS code
-
 ## 추천시스템
+1) 개요
+2) 연관분석(Apriori, FP-Growth)
+3) 컨텐츠 기반 추천시스템(유사도(유클리디안, 코사인, 피어슨, 자카드), 평가함수(Accuracy, F1-score,RMSE,MAP,NDCG,NDCG), TF-IDF,Word2Vec))
+4) 협업필터링(KNN, SGD,ALS를 이용한 추천시스템)
+5) 딥러닝을 이용한 추천시스템
 
+## git/github ->source Tree / VS code
 
 ## R 텍스트 마이닝
 
