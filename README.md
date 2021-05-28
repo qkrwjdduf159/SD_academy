@@ -112,23 +112,27 @@ Hyperparamter 자동 : optnua /  Imblanced data
 5) 딥러닝을 이용한 추천시스템
 
 ## git/github ->source Tree / VS code
-
-## R 텍스트 마이닝
-
-
-## 시계열 분석 ? 
-
 ----------------------------------Deep Learning----------------------------------
 1. peceptron
 2. mulit layer perceptron
 3. Convoluiontal Neural Networks
 4. Recurrent Neural Networks
-5. Speech Recongition ->기초적인 것.
-6. Convolutiaonl Neural Neworks advanced (시각인지) ->YoLO(detection) /Deeplab(Segmenation)
-7. Recurrent Neural Networks advanced (언어인지) -> transformer 계열
+
+------------------------------------------------------------------------------
+
+## R basic / R Text mining
+
+
+## 시계열 분석 ? 
+
+
+-------------------------Deep learning advanced----------------------
+
+1. Speech Recongition ->기초적인 것.
+2. Convolutiaonl Neural Neworks advanced (시각인지) ->YoLO(detection) /Deeplab(Segmenation)
+3. Recurrent Neural Networks advanced (언어인지) -> transformer 계열
 
 Graph Neural Networks ? Gernerative adversial Neworks ? 
-
 
 ## spark
 ## AWS / linux programming ->Server Programming
