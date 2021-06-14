@@ -113,10 +113,14 @@ Hyperparamter 자동 : optnua /  Imblanced data
 
 ## git/github ->source Tree / VS code
 
-## R 텍스트 마이닝
+## R로 하는 데이터 분석 / 텍스트 마이닝
 
-
-## 시계열 분석 ? 
+## 시계열 분석
+1) 통계량,가설검정
+2) 확률과정, 시계열 데이터 처리
+3) Autocorrleation, Deterministic/Probabilistic model
+4) t/f 검정, Kullback-Leibeler Divergerence, AIC(Akaike Information Criterion), BIC(Bayesain Information Criterion)
+5) python statsmodels package
 
 ----------------------------------Deep Learning----------------------------------
 1. peceptron
