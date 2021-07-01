@@ -128,13 +128,10 @@ Hyperparamter 자동 : optnua /  Imblanced data
 3. Convoluiontal Neural Networks
 4. Recurrent Neural Networks
 5. Speech Recongition ->기초적인 것.
-6. Convolutiaonl Neural Neworks advanced (시각인지) ->YoLO(detection) /Deeplab(Segmenation)
-7. Recurrent Neural Networks advanced (언어인지) -> transformer 계열
-
-Graph Neural Networks ? Gernerative adversial Neworks ? 
+6. Convolutiaonl Neural Neworks advanced (시각인지) -> RCNN/Faster RCNN
+7. Recurrent Neural Networks advanced (언어인지) -> transformer
 
 
-## spark ?
-## linux programming ->Server Programming
-# Docker -> server Progarmming
-# Django / Flask ->web programming
+### linux programming 
+### Docker
+### Flask 
