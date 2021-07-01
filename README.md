@@ -134,7 +134,7 @@ Hyperparamter 자동 : optnua /  Imblanced data
 Graph Neural Networks ? Gernerative adversial Neworks ? 
 
 
-## spark
-## AWS / linux programming ->Server Programming
-# Docker ->server Progarmming
+## spark ?
+## linux programming ->Server Programming
+# Docker -> server Progarmming
 # Django / Flask ->web programming
