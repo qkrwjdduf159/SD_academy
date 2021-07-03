@@ -1,4 +1,5 @@
 # SD_academy 강의 일정
+- 2021.03.25 ~ 2021.08.04
 
 
 
@@ -135,3 +136,5 @@ Hyperparamter 자동 : optnua /  Imblanced data
 ### linux programming 
 ### Docker
 ### Flask 
+
+프로젝트 결과 : https://github.com/SD-academy
